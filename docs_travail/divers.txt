@@ -1,0 +1,9 @@
+AWS RDS
+master username : master_kayak
+password : Le1123Gs!
+
+pgAdmin :
+lise.gnos@gmail.com
+same passwd
+You can now start using pgAdmin 4 in web mode at http://127.0.0.1/pgadmin4
+
