@@ -33,12 +33,6 @@ class BookingSpider5Spider(scrapy.Spider):
 
     # Callback used after search form
     def after_search(self, response, id_city) :
-        '''
-        names = response.xpath('//*[@class="e13098a59f"]/div[1]/text()')
-        urls = response.xpath('//*[@class="e13098a59f"]')
-        scores = response.xpath('//*[@class="b5cd09854e d10a6220b4"]/text()')
-        descriptions = response.xpath('//*[@class="d8eab2cf7f"]/text()')
-        '''
 
         names = response.xpath('//*[@class="a1b3f50dcd b2fe1a41c3 a7c67ebfe5 d19ba76520 d14b211b4f"]/div[1]/div/div[1]/div/h3/a/div[1]/text()')
         urls = response.xpath('//*[@class="a1b3f50dcd b2fe1a41c3 a7c67ebfe5 d19ba76520 d14b211b4f"]/div[1]/div/div[1]/div/h3/a')
