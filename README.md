@@ -4,7 +4,7 @@
 The project aims at collecting some data in order to create an application that will recommend where people should plan their next holidays.
 We focus on the top 35 cities to visit in France.
 
-> Video link of the project : 👉  👈
+> Video link of the project : 👉 https://share.vidyard.com/watch/CXfbafAMamkKJuA9WY1KuW? 👈
 
 Contact : Lise Gnos  
 email : lise.gnos@gmail.com
